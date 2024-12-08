@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/silly0302/NETFLIX-clone/static/js/main.3a474a6e.js",
-    "index.html": "/silly0302/NETFLIX-clone/index.html",
-    "main.3a474a6e.js.map": "/silly0302/NETFLIX-clone/static/js/main.3a474a6e.js.map"
+    "main.js": "/NETFLIX-clone/static/js/main.eb0e390f.js",
+    "index.html": "/NETFLIX-clone/index.html",
+    "main.eb0e390f.js.map": "/NETFLIX-clone/static/js/main.eb0e390f.js.map"
   },
   "entrypoints": [
-    "static/js/main.3a474a6e.js"
+    "static/js/main.eb0e390f.js"
   ]
 }
